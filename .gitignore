@@ -1,0 +1,44 @@
+# Логи
+*.log
+npm-debug.log*
+
+# Временные файлы
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Файлы операционных систем
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Файлы IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js
+node_modules/
+
+# Библиотеки
+/dist/
+/build/
+/out/
+
+# Архивы
+*.zip
+*.tar.gz
+*.rar
+
+# Бинарные файлы
+*.exe
+*.dll
+*.so
+*.dylib
