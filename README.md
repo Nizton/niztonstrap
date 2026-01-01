@@ -23,7 +23,7 @@
 ### Подключение через CDN
 
 ```html
-<link rel="stylesheet" href="https://yourcdn.com/niztonstrap.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/nizton/niztonstrap@v1.1.0/niztonstrap.css">
 ```
 
 ### Локальное подключение
@@ -277,3 +277,4 @@
 ## ⚡ Лицензия
 
 MIT License © Nizton
+
